@@ -31,7 +31,7 @@ Agency for Science, Technology and Research (A*STAR) <br />
 E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p>
 </td></tr></table>
 <h2>About me</h2>
-<p>I received the B.S. degree from the Zhejiang University of Science and Technology, in 2012, and the M.S. degree from Xiamen University, in 2016. I am currently a research scientist with the AI Research Institute, Hithink RoyalFlush, China. My main research interests include Machine Learning, Deep Learning and Recommender Systems. Also, I do some research about Computer Vision, such as knee osteoarthritis prediction, and Time Series Prediction, such as remaining useful life prediction of Lithium-ion batteries. I focus on using AI to solve practical problems.</p>
+<p>I received the B.S. degree from the Wuhan University in 2016, and the M.S. degree from National University of Singapore, in 2018. I am currently a Senior Research Engineer with the Visual Intelligence Department, Institute for Infocomm Research (I2R), A*STAR, Singapore. My research interests include deep learning on computer vision, with an emphasis on video understanding and analysis, face recognition, and person reidentification.</p>
 <h2>Research</h2>
 <p>My research interests include: </p>
 <ul>
