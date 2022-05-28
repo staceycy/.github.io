@@ -76,6 +76,15 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 </li>
 </ol>
 <p><a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Full list of publications in Google Scholar</a>.</p>
+
+<h3>Competitions and awards</h3>
+<ol>
+<li><p>The 1st Prize in the EPIC-Kitchens Dataset Challenges Unsupervised Domain Adaptation for Recognition Track in CVPR2021</p>
+</li>
+<li><p>The 2nd Prize in the EPIC-Kitchens Dataset Challenges Action Anticipation Track in CVPR2020</p>
+</li>
+</ol>
+
 <h3>Academic service</h3>
 <p><b>Reviewer</b></p>
 <ul>
@@ -86,13 +95,7 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <li><p>IEEE International Conference on Image Processing (IEEE ICIP)</p>
 </li>  
 </ul>
-<h3>Competitions and awards</h3>
-<ol>
-<li><p>The 1st Prize in the EPIC-Kitchens Dataset Challenges Unsupervised Domain Adaptation for Recognition Track in CVPR2021</p>
-</li>
-<li><p>The 2nd Prize in the EPIC-Kitchens Dataset Challenges Action Anticipation Track in CVPR2020</p>
-</li>
-</ol>
+  
 <h2>Work experience</h2>
 <ol>
 <li><p>Senior Research Engineer, Institute for Infocomm Research, A*STAR, 01.2019-Present</p></li>
