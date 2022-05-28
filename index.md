@@ -31,40 +31,9 @@ Agency for Science, Technology and Research (A*STAR) <br />
 E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p>
 </td></tr></table>
 <h2>About me</h2>
-<p>I received the B.S. degree from the Wuhan University in 2016, and the M.S. degree from National University of Singapore, in 2018. I am currently a Senior Research Engineer with the Visual Intelligence Department, Institute for Infocomm Research (I2R), A*STAR, Singapore. My research interests include deep learning on computer vision, with an emphasis on video understanding and analysis, face recognition, and person reidentification.</p>
-<h2>Research</h2>
-<p>My research interests include: </p>
-<ul>
-<li><p>Machine Learning  </p>
-</li>
-<li><p>Deep Learning</p>
-</li>
-<li><p>Recommender Systems</p>
-</li>
-<li><p>Computer Vision</p>
-</li>
-</ul>
-<h3>Current work</h3>
-<ul>
-<li><p>Reinforcement Learning for Knee Osteoarthritis Prediction</p>
-</li>
-<li><p>Temporal Neural Network for Knee Osteoarthritis Prediction</p>
-</li>
-<li><p>Expert Neural Network for for Recommendation</p>
-</li>
-<li><p>Federal Learning for Recommendation</p>
-</li>
-</ul>
-<h3>Under review</h3>
-<ol>
-<li><p>W. Zhang, Y. Lin, Y. Liu, P. Wu, F. Lin*, and <b>X. Zhou</b>*, "Self-Supervised Reinforcement Learning for Knowledge-aware Recommendation".</p>
-</li>
-<li><p>Y. Lin, W. Zhang, <b>X. Zhou</b>, F. Lin*, W. Zeng, L. Zou*, Y. Liu, P. Wu, "Knowledge-aware Reasoning with Self-supervised Reinforcement Learning for Explainable Recommendation in MOOCs".</p>
-</li> 
-<li><p>M. Chen, T. Ma, and <b>X. Zhou</b>*, "CoGraph: Co-occurrence Graph for Recommendation".</p>
-</li>
-<li><p>M. Chen, and <b>X. Zhou</b>*, "Autoencoders for Drug-Target Interaction Prediction".</p>
-</ol>
+<p>I am currently a Senior Research Engineer with the Visual Intelligence Department, Institute for Infocomm Research (I2R), A*STAR, Singapore. I received the B.S. degree from the Wuhan University in 2016, and the M.S. degree from National University of Singapore, in 2018. My research interests include deep learning on computer vision, with an emphasis on video understanding and analysis, face recognition, and person reidentification.</p>
+<h2>Research Interests</h2>
+<p>Deep learning on computer vision, with an emphasis on video understanding and analysis, face recognition, and person reidentification. </p>
 <h3>Recent publications </h3>
 <ol>
 <li><p>M. Chen, T. Ma, and <b>X. Zhou</b>*, "CoCNN: Co-occurrence CNN for Recommendation", <i>Expert Systems with Applications</i>, Jun. 2022, 195, pp. 116595. (IF = 6.954) [<a href="pub/CoCNN.pdf">pdf</a>][<a href="https://github.com/XiuzeZhou/cocnn">code</a>]</p>
