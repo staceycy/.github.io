@@ -23,7 +23,7 @@
 <h1>Cheng, Yi (程祎) </h1>
 </div>
 <table class="imgtable"><tr><td>
-<a href="https://staceycy.github.io/"><img src="photos/ChengYi.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
+<a href="https://staceycy.github.io/"><img src="photo/ChengYi.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
 <td align="left"><p>Senior Research Engineer,<br />
 Institute for Infocomm Research,<br />
 Agency for Science, Technology and Research (A*STAR) <br />
