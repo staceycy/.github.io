@@ -39,7 +39,7 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <!-- <li><p>Yi Cheng, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli, "Entropy guided attention network for weakly-supervised action localization", <i>Pattern Recognition</i>, Jun. 2022, 195, pp. 116595. (IF = 6.954) [<a href="pub/CoCNN.pdf">pdf</a>][<a href="https://github.com/XiuzeZhou/cocnn">code</a>]</p>
 </li> -->
 <li><p><b>Entropy guided attention network for weakly-supervised action localization</b> <br />
-  <u>Yi Cheng</u>, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli. <br />
+  <b>Yi Cheng</b>, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli. <br />
   <i>Pattern Recognition</i>, 2022. </p>
 </li>
 <li><p><b>Multi-view 3D object retrieval leveraging the aggregation of view and instance attentive features</b> <br />
