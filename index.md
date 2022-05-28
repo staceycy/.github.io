@@ -41,11 +41,42 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <li><p><strong>Entropy guided attention network for weakly-supervised action localization</strong>, Yi Cheng, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli, <i>Pattern Recognition</i>, 2022. [<a href="pub/CoCNN.pdf">pdf</a>]</p>
 </li>
 </li>
-    <div class="pub-title"><strong>Deep Learning for Person Re-identification: A Survey and Outlook</strong></div>
-    <div class="pub-authors"><u>Mang Ye</u>, Jianbing Shen, Gaojie Lin, Tao Xiang, Ling Shao, Steven C. H. Hoi.</div>
-    <div class="pub-venue"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i>
+    <div class="pub-entry">
+
+        <div class="pub-info">
+            <div class="pub-title"><strong>Deep Learning for Person Re-identification: A Survey and Outlook</strong></div>
+            <div class="pub-authors"><u>Mang Ye</u>, Jianbing Shen, Gaojie Lin, Tao Xiang, Ling Shao, Steven C. H. Hoi.</div>
+            <div class="pub-venue"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i>
+            </div>
+
+            <div class="pub-description">
+                <a href="https://ieeexplore.ieee.org/document/9336268" target="_blank"> Paper </a>
+
+                <a href="https://github.com/mangye16/ReID-Survey" target="_blank"> Code </a>
+            </div>
+        </div>
+        <hr>
     </div>
 </li>
+</li>
+    <div class="pub-entry">
+
+        <div class="pub-info">
+            <div class="pub-title"><strong>Deep Learning for Person Re-identification: A Survey and Outlook</strong></div>
+            <div class="pub-authors"><u>Mang Ye</u>, Jianbing Shen, Gaojie Lin, Tao Xiang, Ling Shao, Steven C. H. Hoi.</div>
+            <div class="pub-venue"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i>
+            </div>
+
+            <div class="pub-description">
+                <a href="https://ieeexplore.ieee.org/document/9336268" target="_blank"> Paper </a>
+
+                <a href="https://github.com/mangye16/ReID-Survey" target="_blank"> Code </a>
+            </div>
+        </div>
+        <hr>
+    </div>
+</li>
+  
 </ol>
 <p><a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Full list of publications in Google Scholar</a>.</p>
 <h3>Academic service</h3>
