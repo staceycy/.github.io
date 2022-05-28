@@ -44,13 +44,13 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
     <div class="pub-title"><strong>Deep Learning for Person Re-identification: A Survey and Outlook</strong></div>
     <div class="pub-authors"><u>Mang Ye</u>, Jianbing Shen, Gaojie Lin, Tao Xiang, Ling Shao, Steven C. H. Hoi.</div>
     <div class="pub-venue"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i>
-    </div><p>
+    </div></p>
 </li>
-</li>
+</li><p>
     <div class="pub-title"><strong>Deep Learning for Person Re-identification: A Survey and Outlook</strong></div>
     <div class="pub-authors"><u>Mang Ye</u>, Jianbing Shen, Gaojie Lin, Tao Xiang, Ling Shao, Steven C. H. Hoi.</div>
     <div class="pub-venue"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i>
-    </div>
+    </div></p>
 </li>
   
 </ol>
