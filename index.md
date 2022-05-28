@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="shortcut icon" href="favicon.ico" />
 <link rel="bookmark" href="favicon.ico" type="image/x-icon"　/>
-<title>Cheng, Yi (程祎)</title>
+<!-- <title>Cheng, Yi (程祎)</title> -->
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
