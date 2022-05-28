@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="shortcut icon" href="favicon.ico" />
 <link rel="bookmark" href="favicon.ico" type="image/x-icon"　/>
-<!-- <title>Cheng, Yi (程祎)</title> -->
+<title>Cheng, Yi (程祎)</title>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -39,19 +39,19 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <!-- <li><p>Yi Cheng, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli, "Entropy guided attention network for weakly-supervised action localization", <i>Pattern Recognition</i>, Jun. 2022, 195, pp. 116595. (IF = 6.954) [<a href="pub/CoCNN.pdf">pdf</a>][<a href="https://github.com/XiuzeZhou/cocnn">code</a>]</p>
 </li> -->
 <li><p><b>Entropy guided attention network for weakly-supervised action localization</b> <br />
-  <b>Yi Cheng</b>, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli. <br />
+  <u>Yi Cheng</u>, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli. <br />
   <i>Pattern Recognition</i>, 2022. </p>
 </li>
 <li><p><b>Multi-view 3D object retrieval leveraging the aggregation of view and instance attentive features</b> <br />
-   Dongyun Lin, Yiqun Li, <b>Yi Cheng</b>, Shitala Prasad, Tin Lay Nwe, Sheng Dong, Aiyuan Guo. <br />
+   Dongyun Lin, Yiqun Li, <u>Yi Cheng</u>, Shitala Prasad, Tin Lay Nwe, Sheng Dong, Aiyuan Guo. <br />
   <i>Knowledge-Based Systems</i>, 2022. </p>
 </li>
 <li><p><b>Image Understanding with Reinforcement Learning: Auto-tuning Image Attributes and Model Parameters for Object Detection and Segmentation</b> <br />
-   Fen Fang, Qianli Xu, <b>Yi Cheng</b>, Ying Sun, Joo-Hwee Lim. <br />
+   Fen Fang, Qianli Xu, <u>Yi Cheng</u>, Ying Sun, Joo-Hwee Lim. <br />
   <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2022. </p>
 </li>
 <li><p><b>Action Relational Graph for Weakly-supervised Temporal Action Localization</b> <br />
-   <b>Yi Cheng</b>, Ying Sun, Dongyun Lin, Joo-Hwee Lim. <br />
+   <u>Yi Cheng</u>, Ying Sun, Dongyun Lin, Joo-Hwee Lim. <br />
   <i>2020 IEEE International Conference on Image Processing (ICIP)</i>, 2021. </p>
 </li>
 <li><p><b>6D Pose Estimation with Correlation Fusion</b> <br />
@@ -59,19 +59,19 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
   <i>International Conference on Pattern Recognition (ICPR)</i>, 2020. </p>
 </li>
 <li><p><b>Single-image dehazing via compositional adversarial network</b> <br />
-   Hongyuan Zhu, <b>Yi Cheng</b>, Xi Peng, Joey Tianyi Zhou, Zhao Kang, Shijian Lu, Zhiwen Fang, Liyuan Li, Joo-Hwee Lim. <br />
+   Hongyuan Zhu, <u>Yi Cheng</u>, Xi Peng, Joey Tianyi Zhou, Zhao Kang, Shijian Lu, Zhiwen Fang, Liyuan Li, Joo-Hwee Lim. <br />
   <i>IEEE Transactions on Cybernetics</i>, 2019. </p>
 </li>
 <li><p><b>Improving Night-Time Pedestrian Retrieval with Distribution Alignment and Contextual Distance</b> <br />
-   Mang Ye, <b>Yi Cheng</b>, Xiangyuan Lan, Hongyuan Zhu. <br />
+   Mang Ye, <u>Yi Cheng</u>, Xiangyuan Lan, Hongyuan Zhu. <br />
   <i>IEEE Transactions on Industrial Informatics</i>, 2019. </p>
 </li>
 <li><p><b>Look Across Elapse: Disentangled Representation Learning and Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition</b> <br />
-   Jian Zhao, Yu Cheng, <b>Yi Cheng</b>, Yang Yang, Haochong Lan, Fang Zhao, Lin Xiong, Yan Xu, Jianshu Li, Sugiri Pranata, Shengmei Shen, Junliang Xing, Hengzhu Liu, Shuicheng Yan, Jiashi Feng. <br />
+   Jian Zhao, Yu Cheng, <u>Yi Cheng</u>, Yang Yang, Haochong Lan, Fang Zhao, Lin Xiong, Yan Xu, Jianshu Li, Sugiri Pranata, Shengmei Shen, Junliang Xing, Hengzhu Liu, Shuicheng Yan, Jiashi Feng. <br />
   <i>AAAI</i>, 2019. </p>
 </li>
 <li><p><b>3D-Aided Deep Pose-Invariant Face Recognition</b> <br />
-   Jian Zhao, Lin Xiong, Yu Cheng, <b>Yi Cheng</b>, Jianshu Li, Li Zhou, Yan Xu, Jayashree Karlekar, Sugiri Pranata, Shengmei Shen, Junliang Xing, Shuicheng Yan, Jiashi Feng. <br />
+   Jian Zhao, Lin Xiong, Yu Cheng, <u>Yi Cheng</u>, Jianshu Li, Li Zhou, Yan Xu, Jayashree Karlekar, Sugiri Pranata, Shengmei Shen, Junliang Xing, Shuicheng Yan, Jiashi Feng. <br />
   <i>IJCAI</i>, 2018. </p>
 </li>
 </ol>
