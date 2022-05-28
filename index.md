@@ -78,12 +78,12 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <p><a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Full list of publications in Google Scholar</a>.</p>
 
 <h3>Competitions and awards</h3>
-<ol>
+<ul>
 <li><p>The 1st Prize in the EPIC-Kitchens Dataset Challenges Unsupervised Domain Adaptation for Recognition Track in CVPR2021</p>
 </li>
 <li><p>The 2nd Prize in the EPIC-Kitchens Dataset Challenges Action Anticipation Track in CVPR2020</p>
 </li>
-</ol>
+</ul>
 
 <h3>Professional service</h3>
 <!-- <p><b>Reviewer</b></p> -->
@@ -91,12 +91,6 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <li><p>Invited reviewer of CVPR, ECCV, ICIP.</p>
 </li>
 </ul>
-<!-- <ul>
-</li>
-<p>Invited reviewer of CVPR, ECCV, ICIP.</p>
-</li>
-</ul> -->
-<!-- <ul>
 <li><p>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)</p>
 </li>
 <li><p>European Conference on Computer Vision (ECCV)</p>
