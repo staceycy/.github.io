@@ -43,15 +43,15 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
   <i>Pattern Recognition</i>, 2022. </p>
 </li>
 <li><p><b>Multi-view 3D object retrieval leveraging the aggregation of view and instance attentive features</b> <br />
-   Dongyun Lin, Yiqun Li, <u>Yi Cheng</u>, Shitala Prasad, Tin Lay Nwe, Sheng Dong, Aiyuan Guo. <br />
+   Dongyun Lin, Yiqun Li, <b>Yi Cheng</b>, Shitala Prasad, Tin Lay Nwe, Sheng Dong, Aiyuan Guo. <br />
   <i>Knowledge-Based Systems</i>, 2022. </p>
 </li>
 <li><p><b>Image Understanding with Reinforcement Learning: Auto-tuning Image Attributes and Model Parameters for Object Detection and Segmentation</b> <br />
-   Fen Fang, Qianli Xu, <u>Yi Cheng</u>, Ying Sun, Joo-Hwee Lim. <br />
+   Fen Fang, Qianli Xu, <b>Yi Cheng</b>, Ying Sun, Joo-Hwee Lim. <br />
   <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2022. </p>
 </li>
 <li><p><b>Action Relational Graph for Weakly-supervised Temporal Action Localization</b> <br />
-   <u>Yi Cheng</u>, Ying Sun, Dongyun Lin, Joo-Hwee Lim. <br />
+   <b>Yi Cheng</b>, Ying Sun, Dongyun Lin, Joo-Hwee Lim. <br />
   <i>2020 IEEE International Conference on Image Processing (ICIP)</i>, 2021. </p>
 </li>
 <li><p><b>6D Pose Estimation with Correlation Fusion</b> <br />
@@ -59,11 +59,11 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
   <i>International Conference on Pattern Recognition (ICPR)</i>, 2020. </p>
 </li>
 <li><p><b>Single-image dehazing via compositional adversarial network</b> <br />
-   Hongyuan Zhu, <u>Yi Cheng</u>, Xi Peng, Joey Tianyi Zhou, Zhao Kang, Shijian Lu, Zhiwen Fang, Liyuan Li, Joo-Hwee Lim. <br />
+   Hongyuan Zhu, <b>Yi Cheng</b>, Xi Peng, Joey Tianyi Zhou, Zhao Kang, Shijian Lu, Zhiwen Fang, Liyuan Li, Joo-Hwee Lim. <br />
   <i>IEEE Transactions on Cybernetics</i>, 2019. </p>
 </li>
 <li><p><b>Improving Night-Time Pedestrian Retrieval with Distribution Alignment and Contextual Distance</b> <br />
-   Mang Ye, <u>Yi Cheng</u>, Xiangyuan Lan, Hongyuan Zhu. <br />
+   Mang Ye, <b>Yi Cheng</b>, Xiangyuan Lan, Hongyuan Zhu. <br />
   <i>IEEE Transactions on Industrial Informatics</i>, 2019. </p>
 </li>
 </ol>
