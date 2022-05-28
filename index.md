@@ -39,11 +39,17 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <!-- <li><p>Yi Cheng, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli, "Entropy guided attention network for weakly-supervised action localization", <i>Pattern Recognition</i>, Jun. 2022, 195, pp. 116595. (IF = 6.954) [<a href="pub/CoCNN.pdf">pdf</a>][<a href="https://github.com/XiuzeZhou/cocnn">code</a>]</p>
 </li> -->
 <li><p><b>Entropy guided attention network for weakly-supervised action localization</b>, <br />
-  <u>Yi Cheng</u>, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli, <br />
-  <i>Pattern Recognition</i>, 2022. [<a href="pub/CoCNN.pdf">pdf</a>]</p>
+  <u>Yi Cheng</u>, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli. <br />
+  <i>Pattern Recognition</i>, 2022. </p>
 </li>
-
-  
+<li><p><b>Multi-view 3D object retrieval leveraging the aggregation of view and instance attentive features</b>, <br />
+   Dongyun Lin, Yiqun Li, <u>Yi Cheng</u>, Shitala Prasad, Tin Lay Nwe, Sheng Dong, Aiyuan Guo. <br />
+  <i>Knowledge-Based Systems</i>, 2022. </p>
+</li>
+<li><p><b>Image Understanding with Reinforcement Learning: Auto-tuning Image Attributes and Model Parameters for Object Detection and Segmentation</b>, <br />
+   Fen Fang, Qianli Xu, <u>Yi Cheng</u>, Ying Sun, Joo-Hwee Lim. <br />
+  <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2022. </p>
+</li>
 </ol>
 <p><a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Full list of publications in Google Scholar</a>.</p>
 <h3>Academic service</h3>
