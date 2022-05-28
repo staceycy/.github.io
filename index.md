@@ -66,6 +66,14 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
    Mang Ye, <b>Yi Cheng</b>, Xiangyuan Lan, Hongyuan Zhu. <br />
   <i>IEEE Transactions on Industrial Informatics</i>, 2019. </p>
 </li>
+<li><p><b>Look Across Elapse: Disentangled Representation Learning and Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition</b> <br />
+   Jian Zhao, Yu Cheng, <b>Yi Cheng</b>, Yang Yang, Haochong Lan, Fang Zhao, Lin Xiong, Yan Xu, Jianshu Li, Sugiri Pranata, Shengmei Shen, Junliang Xing, Hengzhu Liu, Shuicheng Yan, Jiashi Feng. <br />
+  <i>AAAI</i>, 2019. </p>
+</li>
+<li><p><b>3D-Aided Deep Pose-Invariant Face Recognition</b> <br />
+   Jian Zhao, Lin Xiong, Yu Cheng, <b>Yi Cheng</b>, Jianshu Li, Li Zhou, Yan Xu, Jayashree Karlekar, Sugiri Pranata, Shengmei Shen, Junliang Xing, Shuicheng Yan, Jiashi Feng. <br />
+  <i>IJCAI</i>, 2018. </p>
+</li>
 </ol>
 <p><a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Full list of publications in Google Scholar</a>.</p>
 <h3>Academic service</h3>
