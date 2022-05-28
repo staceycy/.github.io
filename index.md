@@ -38,20 +38,9 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <ol>
 <!-- <li><p>Yi Cheng, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli, "Entropy guided attention network for weakly-supervised action localization", <i>Pattern Recognition</i>, Jun. 2022, 195, pp. 116595. (IF = 6.954) [<a href="pub/CoCNN.pdf">pdf</a>][<a href="https://github.com/XiuzeZhou/cocnn">code</a>]</p>
 </li> -->
-<!-- <li><p><strong>Entropy guided attention network for weakly-supervised action localization</strong>, Yi Cheng, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli, <i>Pattern Recognition</i>, 2022. [<a href="pub/CoCNN.pdf">pdf</a>]</p>
-</li> -->
-</li><p>
-    <div class="pub-title"><strong>Deep Learning for Person Re-identification: A Survey and Outlook</strong></div>
-    <div class="pub-authors"><u>Mang Ye</u>, Jianbing Shen, Gaojie Lin, Tao Xiang, Ling Shao, Steven C. H. Hoi.</div>
-    <div class="pub-venue"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i>
-    </div></p>
+<li><p><b>Entropy guided attention network for weakly-supervised action localization</b>, <u>Yi Cheng</u>, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli, <i>Pattern Recognition</i>, 2022. [<a href="pub/CoCNN.pdf">pdf</a>]</p>
 </li>
-</li><p>
-    <div class="pub-title"><strong>Deep Learning for Person Re-identification: A Survey and Outlook</strong></div>
-    <div class="pub-authors"><u>Mang Ye</u>, Jianbing Shen, Gaojie Lin, Tao Xiang, Ling Shao, Steven C. H. Hoi.</div>
-    <div class="pub-venue"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i>
-    </div></p>
-</li>
+
   
 </ol>
 <p><a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Full list of publications in Google Scholar</a>.</p>
