@@ -88,7 +88,7 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <h3>Professional service</h3>
 <!-- <p><b>Reviewer</b></p> -->
 </li>
-<p>Invited reviewer of CVPR, ECCV, ICIP.<p>
+<p>Invited reviewer of CVPR, ECCV, ICIP.</p>
 </li>
 <!-- <ul>
 <li><p>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)</p>
