@@ -17,8 +17,6 @@
 <div class="menu-item"><a href="index.html" class="current">Home</a></div>
 <div class="menu-item"><a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Google Scholar</a></div>
 <div class="menu-item"><a href="https://www.researchgate.net/profile/Yi-Cheng-26">ResearchGate</a></div>
-<!-- <div class="menu-item"><a href="https://github.com/XiuzeZhou">GitHub</a></div> -->
-<!-- <div class="menu-item"><a href="http://snailwish.com/">个人博客</a></div> -->
 </td>
 <td id="layout-content">
 <div id="toptitle">
@@ -26,12 +24,11 @@
 </div>
 <table class="imgtable"><tr><td>
 <a href="https://staceycy.github.io/"><img src="photos/ChengYi.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
-<td align="left"><p>Research Scientist,<br />
-AI Research Institute,<br />
-Hithink RoyalFlush Information Network Co., Ltd. <br />
-No. 18 Tongshun Street, <br />
-Hangzhou City, China <br /> 
-E-mail: <a href="mailto:zhouxiuze@foxmail.com">zhouxiuze@foxmail.com</a></p>
+<td align="left"><p>Senior Research Engineer,<br />
+Institute for Infocomm Research,<br />
+Agency for Science, Technology and Research (A*STAR) <br />
+1 Fusionopolis Way, #21-01 Connexis, Singapore 138632 <br />
+E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p>
 </td></tr></table>
 <h2>About me</h2>
 <p>I received the B.S. degree from the Zhejiang University of Science and Technology, in 2012, and the M.S. degree from Xiamen University, in 2016. I am currently a research scientist with the AI Research Institute, Hithink RoyalFlush, China. My main research interests include Machine Learning, Deep Learning and Recommender Systems. Also, I do some research about Computer Vision, such as knee osteoarthritis prediction, and Time Series Prediction, such as remaining useful life prediction of Lithium-ion batteries. I focus on using AI to solve practical problems.</p>
