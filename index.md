@@ -103,10 +103,12 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <h2>Work experience</h2>
 <ol>
 <li><p>Senior Research Engineer, Institute for Infocomm Research, A*STAR, 01.2019-Present</p></li>
-<ul>
+<!-- <ul>
 <li><p>Research the newest deeping learning algorithms on computer vision</p>
 </li>
-</ul>
+</ul> -->
+<li><p>Research and Development Engineer, Panasonic R&D Center Singapore, 12.2017-01.2019</p></li>
+<li><p>Research and Development Intern, Panasonic R&D Center Singapore, 5.2017-11.2017</p></li>
 </ol>
 <p><br />
 <a href="cv/cv.pdf">A brief cv</a>.</p>
