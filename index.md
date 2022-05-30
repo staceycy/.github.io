@@ -79,9 +79,9 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 
 <h3>Competitions and awards</h3>
 <ul>
-<li><p>The 1st Prize in the EPIC-Kitchens Dataset Challenges Unsupervised Domain Adaptation for Recognition Track in CVPR2021.[<a href="Awrad/2021_EPIC_Certificate.png">Certificate</a>]</p>
+<li><p>The <b>1st</b> Prize in the EPIC-Kitchens Dataset Challenges Unsupervised Domain Adaptation for Recognition Track in CVPR2021.[<a href="Awrad/2021_EPIC_Certificate.png">Certificate</a>]</p>
 </li>
-<li><p>The 2nd Prize in the EPIC-Kitchens Dataset Challenges Action Anticipation Track in CVPR2020.</p>
+<li><p>The <b>2nd</b> Prize in the EPIC-Kitchens Dataset Challenges Action Anticipation Track in CVPR2020.[<a href="Awrad/2020_EPIC_Certificate.png">Certificate</a>]</p>
 </li>
 </ul>
 
