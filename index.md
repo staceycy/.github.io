@@ -24,9 +24,8 @@
 </div>
 <table class="imgtable"><tr><td>
 <a href="https://staceycy.github.io/"><img src="photo/ChengYi.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
-<td align="left"><p>Senior Research Engineer,<br />
-Institute for Infocomm Research,<br />
-Agency for Science, Technology and Research (A*STAR) <br />
+<td align="left"><p><b>Senior Research Engineer</b>,<br />
+Institute for Infocomm Research, Agency for Science, Technology and Research (A*STAR) <br />
 1 Fusionopolis Way, #21-01 Connexis, Singapore 138632 <br />
 E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p>
 </td></tr></table>
