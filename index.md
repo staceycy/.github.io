@@ -113,8 +113,8 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <li><p>Research and Development Engineer, Panasonic R&D Center Singapore, Dec 2017-Jan 2019.</p></li>
 <li><p>Research and Development Intern, Panasonic R&D Center Singapore, May 2017-Nov 2017.</p></li>
 </ol>
-<p><br />
-<a href="cv/cv.pdf">A brief cv</a>.</p>
+<!-- <p><br />
+<a href="cv/cv.pdf">A brief cv</a>.</p> -->
 </td>
 </tr>
 </table>
