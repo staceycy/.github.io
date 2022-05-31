@@ -20,7 +20,7 @@
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>Cheng, Yi (程祎) </h1>
+<h3>Cheng, Yi (程祎) </h3>
 </div>
 <table class="imgtable"><tr><td>
 <a href="https://staceycy.github.io/"><img src="photo/ChengYi.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
@@ -30,13 +30,13 @@ Institute for Infocomm Research, A*STAR <br />
 E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p>
 </td></tr></table>
 
-<h2>About Me</h2>
+<h3>About Me</h3>
 <p>I am currently a Senior Research Engineer with the Visual Intelligence Department, Institute for Infocomm Research (I2R), A*STAR, Singapore. I received the B.S. degree from the Wuhan University in 2016, and the M.S. degree from National University of Singapore, in 2018.</p>
 
-<h2>Research Interests</h2>
+<h3>Research Interests</h3>
 <p>Deep learning on computer vision, with an emphasis on video understanding and analysis, face recognition, and person reidentification. </p>
 
-<h2>Recent publications </h2>
+<h3>Recent publications </h3>
 <ol>
 <!-- <li><p>Yi Cheng, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli, "Entropy guided attention network for weakly-supervised action localization", <i>Pattern Recognition</i>, Jun. 2022, 195, pp. 116595. (IF = 6.954) [<a href="pub/CoCNN.pdf">pdf</a>][<a href="https://github.com/XiuzeZhou/cocnn">code</a>]</p>
 </li> -->
@@ -79,7 +79,7 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 </ol>
 <p><a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Full list of publications in Google Scholar</a>.</p>
 
-<h2>Competitions and awards</h2>
+<h3>Competitions and awards</h3>
 <ul>
 <li><p>The <b>1st</b> Prize in the EPIC-Kitchens Dataset Challenges Unsupervised Domain Adaptation for Recognition Track in CVPR2021.[<a href="Awrad/2021_EPIC_Certificate.png">Certificate</a>]</p>
 </li>
@@ -87,7 +87,7 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 </li>
 </ul>
 
-<h2>Professional service</h2>
+<h3>Professional service</h3>
 <!-- <p><b>Reviewer</b></p> -->
 <ul>
 <li><p>Invited reviewer of CVPR, ECCV, ICIP.</p>
@@ -102,7 +102,7 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 </li>  
 </ul> -->
   
-<h2>Working experience</h2>
+<h3>Working experience</h3>
 <ol>
 <li><p>Senior Research Engineer, Institute for Infocomm Research, A*STAR, Jan 2019-Present.</p></li>
 <!-- <ul>
