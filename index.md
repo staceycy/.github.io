@@ -31,7 +31,7 @@ Agency for Science, Technology and Research (A*STAR) <br />
 E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p>
 </td></tr></table>
 
-<h2>Bio</h2>
+<h2>About Me</h2>
 <p>I am currently a Senior Research Engineer with the Visual Intelligence Department, Institute for Infocomm Research (I2R), A*STAR, Singapore. I received the B.S. degree from the Wuhan University in 2016, and the M.S. degree from National University of Singapore, in 2018.</p>
 
 <h2>Research Interests</h2>
