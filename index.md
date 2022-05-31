@@ -36,7 +36,7 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 <h3>Research Interests</h3>
 <p>Deep learning on computer vision, with an emphasis on video understanding and analysis, face recognition, and person reidentification. </p>
 
-<h3>Recent publications </h3>
+<h3>Recent Publications </h3>
 <ol>
 <!-- <li><p>Yi Cheng, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli, "Entropy guided attention network for weakly-supervised action localization", <i>Pattern Recognition</i>, Jun. 2022, 195, pp. 116595. (IF = 6.954) [<a href="pub/CoCNN.pdf">pdf</a>][<a href="https://github.com/XiuzeZhou/cocnn">code</a>]</p>
 </li> -->
@@ -79,7 +79,7 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 </ol>
 <p><a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Full list of publications in Google Scholar</a>.</p>
 
-<h3>Competitions and awards</h3>
+<h3>Competitions and Awards</h3>
 <ul>
 <li><p>The <b>1st</b> Prize in the EPIC-Kitchens Dataset Challenges Unsupervised Domain Adaptation for Recognition Track in CVPR2021.[<a href="Awrad/2021_EPIC_Certificate.png">Certificate</a>]</p>
 </li>
@@ -87,7 +87,7 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 </li>
 </ul>
 
-<h3>Professional service</h3>
+<h3>Professional Service</h3>
 <!-- <p><b>Reviewer</b></p> -->
 <ul>
 <li><p>Invited reviewer of CVPR, ECCV, ICIP.</p>
@@ -102,7 +102,7 @@ E-mail: <a href="mailto:zhouxiuze@foxmail.com">Cheng_Yi@i2r.a-star.edu.sg</a></p
 </li>  
 </ul> -->
   
-<h3>Working experience</h3>
+<h3>Working Experience</h3>
 <ol>
 <li><p>Senior Research Engineer, Institute for Infocomm Research, A*STAR, Jan 2019-Present.</p></li>
 <!-- <ul>
