@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="google-site-verification" content="PcjE-PoDvp7KoKeZ5wE1g_BU8VI5wioTfiAgbIst__4" />
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Yi Cheng</title>
+</head>
+<body>
+<div id="layout-content">
+<div id="toptitle">
+<h1>Stacey Yi Cheng <font face=STKaiti>程祎</font></h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="photo/ChengYi.jpg" alt="alt text" width="114px" height="160px" />&nbsp;</td>
+<td align="left"><p>Senior Research Engineer <br /> <a href="https://www.a-star.edu.sg/i2r/#">Institute for Infocomm Research</a>
+<br /><a href="https://www.a-star.edu.sg/">Agency for Science, Technology and Research (A*STAR)</a><br /></p>
+<p><br /> Email: cheng_yi@i2r.a-star.edu.sg
+<br /> 
+
+[<a href="https://github.com/staceycy">Github</a>] 
+[<a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Google Scholar</a>]
+[<a href="https://www.researchgate.net/profile/Yi-Cheng-26">ResearchGate</a>]  
+[<a href="https://www.linkedin.com/in/yi-cheng-049b62125/">LinkedIn</a>]
+
+</p>
+</td></tr></table>
+<h2>About me 🎓</h2>
+<p>I am currently a Senior Research Engineer with the Visual Intelligence Department, Institute for Infocomm Research (I2R), A*STAR, Singapore. 
+I received the B.S. degree from the Wuhan University in 2016, and the M.S. degree from National University of Singapore, in 2018.
+</p>
+
+<h2>Research Interests</h2>
+<p>Deep learning and computer vision, with an emphasis on video understanding and reasoning, 
+face recognition, and person reidentification.
+</p>
+
+<h2>Publications</h2>
+<ul>
+<li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320322001996">Entropy guided attention network for weakly-supervised action localization</a>
+<br /> <b>Yi Cheng</b>, Ying Sun, Hehe Fan, Tao Zhuo, Joo-Hwee Lim, Mohan Kankanhalli.
+<br /> Pattern Recognition, 2022. </p>
+</li>
+</ul>
+<ul>
+<li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705122003549">Multi-view 3D object retrieval leveraging the aggregation of view and instance attentive features</a>
+<br /> Dongyun Lin, Yiqun Li, <b>Yi Cheng</b>, Shitala Prasad, Tin Lay Nwe, Sheng Dong, Aiyuan Guo.
+<br /> Knowledge-Based Systems, 2022. (<b>Oral</b>)</p>
+</li>
+</ul>
+<ul>
+<li><p><a href="https://ieeexplore.ieee.org/document/9766109">Image Understanding with Reinforcement Learning: Auto-tuning Image Attributes and Model Parameters for Object Detection and Segmentation</a>
+<br /> Fen Fang, Qianli Xu, <b>Yi Cheng</b>, Ying Sun, Joo-Hwee Lim.
+<br /> IEEE Transactions on Circuits and Systems for Video Technology, 2022.</p>
+</li>
+</ul>
+</ul>
+<li><p><a href="https://ieeexplore.ieee.org/document/9506622">Action Relational Graph for Weakly-Supervised Temporal Action Localization</a>
+<br /> <b>Yi Cheng</b>, Ying Sun, Dongyun Lin, Joo-Hwee Lim.
+<br /> IEEE International Conference on Image Processing (ICIP), 2021.</p>
+</li>
+</ul>
+</ul>
+<li><p><a href="https://arxiv.org/abs/1909.12936">6D Pose Estimation with Correlation Fusion</a>
+<br /> <b>Yi Cheng</b>, Hongyuan Zhu, Ying Sun, Cihan Acar, Wei Jing, Yan Wu, Liyuan Li, Cheston Tan, Joo-Hwee Lim.
+<br /> International Conference on Pattern Recognition (ICPR), 2020.</p>
+</li>
+</ul>
+
+</ul>
+<p><a href="https://scholar.google.com.sg/citations?user=OmyNx3IAAAAJ&hl=en">Full list of publications in Google Scholar</a>.</p>
+</ul>
+
+<h2>Competitions and Awards</h2>
+
+
+<h2> Experience</h2>
+<ul>
+<li><p>Research intern @ <a href="https://www.tencent.com/">Tencent</a>,&nbsp;&nbsp;&nbsp;advisor: Dr. <a href="https://scholar.google.com/citations?user=AjxoEpIAAAAJ&hl=zh-CN">Wei Liu</a>,&nbsp;&nbsp;&nbsp; Shenzhen, China,&nbsp;&nbsp;&nbsp;From May. 2021 to now
+</li>
+<li><p>Research assistant @ <a href="https://en.szu.edu.cn/">Shenzhen University</a>,&nbsp;&nbsp;&nbsp;advisor: Prof. <a href="https://scholar.google.com/citations?user=yAjyrwkAAAAJ&hl=zh-CN">Xiaojun Chen</a> and Prof. <a href="https://scholar.google.com/citations?user=l4oNAU0AAAAJ&hl=zh-CN">Qin Zhang</a>, &nbsp;&nbsp;&nbsp; Shenzhen, China,&nbsp;&nbsp;&nbsp;From Jun. 2019 to now
+</li>
+<li><p>Visiting student @ <a href="https://eng.kpfu.ru/">Kazan Federal University</a>,&nbsp;&nbsp;&nbsp;advisor: Prof. <a href="https://kpfu.ru/Alexandr.Lapin\&p_lang=2">Alexander Lapin</a>, &nbsp;&nbsp;&nbsp; Kazan, Russian,&nbsp;&nbsp;&nbsp;From Aug. 2019 to Jan. 2020
+</li>
+</ul>
+<img src="figures/tencent.jpg" width="202px" height="99px" alt=" /"></td>
+&nbsp;&nbsp;&nbsp;
+<img src="figures/szu.jpg" width="99px" height="99px" alt=" /"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="figures/kfu.jpg" width="83px" height="99px" alt=" /"></td>
+<td align="left"></td></tr></table>
+
+<h2>Awards</h2>
+<ul>
+<li><p>The <b>1st</b> Prize in the EPIC-Kitchens Dataset Challenges Unsupervised Domain Adaptation for Recognition Track in CVPR2022.[<a href="Awrad/2022_EPIC_Certificate.png">Certificate</a>]</p>
+</li>
+<li><p>The <b>1st</b> Prize in the EPIC-Kitchens Dataset Challenges Unsupervised Domain Adaptation for Recognition Track in CVPR2021.[<a href="Awrad/2021_EPIC_Certificate.png">Certificate</a>]</p>
+</li>
+<li><p>The <b>2nd</b> Prize in the EPIC-Kitchens Dataset Challenges Action Anticipation Track in CVPR2020.[<a href="Awrad/2020_EPIC_Certificate.png">Certificate</a>]</p>
+</li>
+
+</ul>
+<h2>Professional Service</h2>
+<ul>
+<li><p>Invited reviewer of CVPR&rsquo;22, ECCV&rsquo;22, ICIP&rsquo;22, ICME&rsquo;21.</p>
+</li>
+</ul>
+<br>
+<br>
+<a href="https://info.flagcounter.com/yZuS"><img src="https://s05.flagcounter.com/count2/yZuS/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</div>
+</body>
+</html>
+
